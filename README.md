@@ -68,7 +68,7 @@ The global note-taking and knowledge management software market is estimated at 
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Sorted by GitHub Stars_Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   **Open-source Notion alternative with kanban boards, databases, wikis, and local-first architecture.** Built with Flutter and Rust for high performance. AGPL-3.0 licensed. 🧱
